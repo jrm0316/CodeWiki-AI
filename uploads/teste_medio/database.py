@@ -1,2 +1,0 @@
-def conectar():
-    return "conectado"
